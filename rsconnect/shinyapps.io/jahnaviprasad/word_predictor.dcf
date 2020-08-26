@@ -1,0 +1,13 @@
+name: word_predictor
+title: word_predictor
+username:
+account: jahnaviprasad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2708776
+bundleId: 3558515
+url: https://jahnaviprasad.shinyapps.io/word_predictor/
+when: 1598421029.16086
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/github.png|www/linkedin.png|www/twitter.png
